@@ -1,7 +1,7 @@
 /**
- * UserCapacitateController
+ * TipoPublicacionController
  *
- * @description :: Server-side logic for managing usercapacitates
+ * @description :: Server-side logic for managing tipopublicacions
  * @help        :: See http://sailsjs.org/#!/documentation/concepts/Controllers
  */
 
